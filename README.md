@@ -1,1 +1,1 @@
-# pizza-query
+# curso descomplicando-sql da linuxtips
